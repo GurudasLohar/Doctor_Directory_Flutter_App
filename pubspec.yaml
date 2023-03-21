@@ -26,7 +26,7 @@ dependencies:
   cupertino_icons: ^0.1.2
   http: any
   json_annotation: ^2.0.0
-  dio: 3.0.3
+  dio: ">=3.0.3 <6.0.0"
   autocomplete_textfield: ^1.6.4
   webview_flutter: ^0.3.4
 
